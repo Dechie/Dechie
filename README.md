@@ -7,3 +7,6 @@
 ## About me
 
 Hi, I'm Dechasa (Telegram name -- Logos). I am a software engineering student. I work on various programming languages and platforms.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/Dechie)
