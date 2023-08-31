@@ -8,4 +8,11 @@
 
 Hi, I'm Dechasa (Telegram name -- Logos). I am a software engineering student. I work on various programming languages and platforms.
 
+I am a highly motivated and passionate software developer with good problem solving skills. 
+
+Technologies I'm currently working on:
+
+![flutter](https://github.com/Dechie/Dechie/assets/104849949/66a6c7e6-b42a-4f39-85b2-4c08f025adb0)<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Flutter</title><path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z"/></svg>
+
+
 
