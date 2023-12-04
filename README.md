@@ -68,6 +68,15 @@
     />
   </a>
 
+   <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="50"
+      height="50"
+    />
+  </a>
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -112,8 +121,8 @@
       height="50"
     />
   </a>
- 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
@@ -122,10 +131,10 @@
     />
   </a>
  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+ <a href="https://www.w3schools.com/js/ttps://www.w3schools.com/javascript/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
+      src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
       width="50"
       height="50"
     />
