@@ -58,7 +58,7 @@
       height="50"
     />
   </a>
-<!--
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain-wordmark.svg"
@@ -67,7 +67,7 @@
       height="50"
     />
   </a>
-  -->
+  
 
    <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img
