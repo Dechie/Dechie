@@ -4,15 +4,13 @@
  <img alt="YOUR-ALT-TEXT" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.sl7nYjNIfPCoDuKqmWVi9gHaFj%26pid%3DApi&f=1&ipt=ffd83dc0ff1a28def2b02322d6d0552efb59444eb7e53c8af3629f1192ea132f&ipo=images">
 </picture>
 
-# About me
+### 👨‍💻 About me
 
-<h2 align="center">Hi, I'm Dechasa (aka Logos). </h2>
+🔭 I am a software engineering student, a mobile developer, a backend developer and AI student. 
 
-<h3>I am a software engineering student working on various programming languages and platforms. </h3>
+⚡ I am interested in mobile development, backend development, AI and Data Science. I am a highly motivated and passionate software developer with good problem solving skills. </p>
 
-<p>I am interested in mobile development, backend development, AI and Data Science. I am a highly motivated and passionate software developer with good problem solving skills. </p>
-
-<h3 align="left">Languages and Tools That I use</h3>
+### 🛠️ Languages and Tools That I use: 
 <p align="left">
  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
     <img
@@ -155,4 +153,6 @@
  
 </p>
 
+🔥 My Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
