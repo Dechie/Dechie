@@ -8,7 +8,11 @@
 
 🔭 I am a software engineering student, a mobile developer, a backend developer and AI student. 
 
-⚡ I am interested in mobile development, backend development, AI and Data Science. I am a highly motivated and passionate software developer with good problem solving skills. </p>
+⚡ I am interested in mobile development, Currently working on flutter
+
+🏄 Looking to collaborate on flutter, Laravel, AI
+
+✈️ currently learning tensorflow
 
 ### 🛠️ Languages and Tools That I use: 
 <p align="left">
